@@ -28,7 +28,7 @@ The following iframe sizes have been tested explicitly:
 - __width 350px, height 350px (350x350) - recommended size__
 - width 450px, height 450px (450x450)
 
-# Signaturbox
-A Signaturbox can be used for the use of Handy-Signatur in areas with strict compliance guidelines or when multiple documents need to be signed with one signature trigger (batch signature). For more information, see [A-Trust Signaturbox](https://www.a-trust.at/de/handy-signatur/signaturbox/).
+# Signatur-Box
+A Signatur-Box can be used for the use of Handy-Signatur in areas with strict compliance guidelines or when multiple documents need to be signed with one signature trigger (batch signature). For more information, see [A-Trust Signatur-Box](https://www.a-trust.at/de/handy-signatur/signaturbox/).
 
-The corresponding documentation for the Signaturbox interface is available [here](https://labs.a-trust.at/pdf/SignatureServer_1.2.2.pdf).
+The corresponding documentation for the Signatur-Box interface is available [here](https://labs.a-trust.at/pdf/SignatureServer_1.2.2.pdf).

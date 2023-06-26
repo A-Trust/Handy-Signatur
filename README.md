@@ -28,4 +28,3 @@ The following iframe sizes have been tested explicitly:
 # Signatur-Box
 A Signatur-Box can be used for the use of Handy-Signatur in areas with strict compliance guidelines or when multiple documents need to be signed with one signature trigger (batch signature). For more information, see [A-Trust Signatur-Box](https://www.a-trust.at/de/handy-signatur/signaturbox/).
 
-The corresponding documentation for the Signatur-Box interface is available [here](https://labs.a-trust.at/pdf/SignatureServer_1.2.2.pdf).

@@ -8,9 +8,6 @@ Phonenumber, signature password and verification TAN must always be entered on A
 
 Local applications that utilize Handy-Signatur have to use a local web browser or a browser control to display the A-Trust page.
 
-# accepted certificates for Handy-Signatur utilization
-[OV](https://en.wikipedia.org/wiki/Public_key_certificate#Organization_validation) or [EV](https://en.wikipedia.org/wiki/Extended_Validation_Certificate) certificates, which follow the [CAB Forum](https://cabforum.org/) rules.
-
 # adjustment and appearance when using Handy-Signatur as iframe
 To integrate Handy-Signatur in a finished webapp, the appearance can be adjusted with the following parameters:
 | parameter | description | example |

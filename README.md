@@ -2,7 +2,7 @@
 
 Handy-Signatur is a qualified remote signature which is triggered via signature password and a second authenticating factor (e.g. cellphone).
 
-Phonenumber, signature password and verification TAN must always be entered on A-Trust web pages starting with https://service.a-trust.at/mobile/, https://www.a-trust.at/mobile/ or https://www.handy-signatur.at/.
+Phonenumber, signature password and verification TAN must always be entered on A-Trust web pages starting with https://service.a-trust.at/mobile/, https://www.a-trust.at/mobile/.
 
 > Therefore it is not permitted to parse the web page or have it filled in automatically using a program/script. This is stated in the user agreement for mobile signature.
 
